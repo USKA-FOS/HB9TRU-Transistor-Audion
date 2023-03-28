@@ -1,0 +1,3 @@
+[submodule "hb9uf.pretty"]
+	path = hb9uf.pretty
+	url = https://github.com/HB9UF/hb9uf.pretty.git

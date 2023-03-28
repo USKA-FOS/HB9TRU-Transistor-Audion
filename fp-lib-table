@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/local.kicad_mod")(options "")(descr ""))
+  (lib (name "hb9uf")(type "KiCad")(uri "${KIPRJMOD}/hb9uf.pretty")(options "")(descr ""))
+)
